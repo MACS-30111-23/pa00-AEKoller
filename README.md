@@ -11,7 +11,7 @@ Edit this README file to include a brief biography of yourself. Your README shou
 * Links
 * A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
 
-# Andrew Koller
+# Hi, I'm Andrew Koller!
 ### *Academic Stuff* 
 
 Hey everyone! My name is Andrew Koller and I'm in the MAPSS psychology program. I earned by BA from DePaul University with a doulbe major in psychology and philosophy, and a minor in German. After graduating, I went into a data sciences and visualization coding bootcamp at Northwestern, as I felt I needed to build some quantitative skills to compliment the qualitative skill set I developed in psychology and philosophy. While I learned a lot about coding in my bootcamp, it went very quickly and I have a lot of gaps in my coding logic. I'm really looking forward to bridging those gaps in this course! 
